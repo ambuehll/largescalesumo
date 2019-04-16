@@ -15,4 +15,4 @@ Note the demand is overestimated in the following simulations. To be fixed in fu
 ### Congestion Clusters
 
 Note the demand is overestimated in the following simulations. To be fixed in future versions.
-![](rio_gif.gif)
+![](rio_clus.gif)
